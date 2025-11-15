@@ -1,52 +1,37 @@
-# HellyomBalatroMods
-A list of mods/addittions/changes made by me for the game Balatro.
+# ![icon](assets/1x/mod_icon.png) Roulette
 
-## [Roulette (WorkInProgress)](/Roulette)
-![imagen](https://github.com/Hellyom/HellyomBalatroMods/assets/91801261/64f133b4-3fdd-49d7-b3c9-476ea77454a6)
-![imagen](https://github.com/Hellyom/HellyomBalatroMods/assets/91801261/06b387f2-6ebc-4fc2-ad74-991990e6e155)
+A rewrite of the Roulette mod by Hellyom to work on newer SMODS!
 
-### What does this mod do?
-- Adds a roulette to the game so you can lose all your money and loose your run faster, obviously.
+<img width="1695" height="951" alt="{6D6B0A45-1F17-430C-A233-F885650B8A0C}" src="https://github.com/user-attachments/assets/4a79879f-c126-4882-8c9c-b1e2e46dcfa4" />
 
-## STEAMMODDED REQUIRED (LAST VERSION TESTED 0.9.3)
+<img width="1029" height="734" alt="{875E70C9-588F-43D8-BA4B-62A5A9AE8251}" src="https://github.com/user-attachments/assets/a688a0b5-a3c2-4d75-823a-2fe8d5473f62" />
+
+### Features
+
+- Adds a Roulette to the game so you can lose all your money and lose your run faster, obviously.
+
+### Changes to Original
+
+- New Mod Icon!
+- The wheel now displays properly with Pixel smoothing on
+- You now can't exit or click any buttons while the wheel is spinning
+- Has a colour indicator to the left of the "Spin" Button to make it more clear what colour you have chosen
+- Now compatible with Talisman
+- Miscellaneous code & UI refactoring
+
+## Requirements
+
+- Requires [Steamodded](https://github.com/Steamodded/smods/releases).
+- Requires [Lovely](https://github.com/ethangreen-dev/lovely-injector).
 
 ## Installation:
-- Place .lua file inside the mods folder
-- Copy "x1" and "x2" folders into the "assets" folder in the mods directory. Should look like this ("Mods/assets/x1", "Mods/assets/x2")
 
-## **IMPORTANT: DISABLE PIXEL ART SMOOTHING IN THE SETTINGS** still working on a fix for this
-
-## Planned additions/changes
-- Sounds
-- Better UI appearance 
-- Any suggestion that catches my attention in the Discord channel
-
----
-
-## [Randomizer Deck (Abandoned for now)](/RandomizerDeck.lua)
-![imagen](https://github.com/Hellyom/HellyomBalatroMods/assets/91801261/7669f4eb-3a7c-4b79-b125-d7c2ee084c46)
-### What does the deck do?
-- Start with one basic random voucher
-- Deck is randomized
-- Number of hands and discards are randomized every round
-- Costs of most things are randomized
-- Cards are randomized
-- Vouchers are randomized
-- Card editions are randomized
-- Tags are randomized
-
-Thanks to [@Steamo](https://github.com/Steamopollys) for the [mod loader and injector](https://github.com/Steamopollys/Steamodded/) and example mods!
-
-Also, thanks to [@Oier](https://github.com/notoier) for providing insights on different things and helping overall.
-
-## STEAMMODDED REQUIRED (LAST VERSION TESTED 0.7.2)
-
-  ## Installation
-- This mod requires [ModLoader](https://github.com/Steamopollys/Steamodded/).
-- Just the download the `.lua` files of the mods you want to install and place them in your `C:\Users\<USER>\AppData\Roaming\Balatro\Mods` or `%appdata%\Balatro\Mods` directory.
+Get the latest stable version from the [Releases](https://github.com/cloudzXIII/Roulette/releases), then download and extract the zip into the Mods folder.
 
 ## Known Issues
+
 - None so far
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)

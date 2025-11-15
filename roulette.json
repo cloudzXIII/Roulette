@@ -1,0 +1,14 @@
+{
+	"id": "Roulette",
+	"name": "Roulette",
+	"author": ["Hellyom", "cloudzXIII"],
+	"description": 	"Adds a roulette to the shop so you can lose all your money",
+	"prefix": "spin",
+	"main_file": "roulette.lua",
+	"priority": 0,
+	"display_name": "Roulette",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-1016c)"
+	]
+}
